@@ -2,7 +2,7 @@
 # RA Work Log — 19 April 2026
 
 **Project:** LLM-Based Synthetic Data Generation for Rental Market Analysis
-**Supervisor:** Dr. Jun Hu / Prof. Bingsheng He
+**Supervisor:**  Prof. Bingsheng He
 **Affiliation:** NUS School of Computing
 
 ---
